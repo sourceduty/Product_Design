@@ -86,6 +86,10 @@ However, retail startups face challenges such as fierce competition and the nece
 
 One of the most daunting challenges in product design is dealing with the uncertainty of sales. Despite having a well-designed product, predicting consumer behavior and market reception can be incredibly difficult. This uncertainty can make it almost impossible to plan effectively and secure the necessary resources for production and marketing. Designers must balance their passion for innovation with practical considerations, such as market research and financial forecasting. The unpredictable nature of consumer demand means that even the most brilliantly designed products may struggle to achieve commercial success. This reality highlights the importance of having a robust strategy in place to navigate the complexities of launching new products in a competitive marketplace.
 
+#
+
+> Alex: "I'm really good at product design, and I really like designing new products, but the uncertain sales of new products are almost impossible to work with."
+
 <br>
 </details>
 
