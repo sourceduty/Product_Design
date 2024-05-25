@@ -91,7 +91,7 @@ One of the most daunting challenges in product design is dealing with the uncert
 
 #
 
-> Alex: "I'm really good at product design, and I really like designing new products, but the uncertain sales of new products are almost impossible to work with."
+> Alex: *"I'm really good at product design, and I really like designing new products, but the uncertain sales of new products are almost impossible to work with."*
 
 #
 ### Related Links
