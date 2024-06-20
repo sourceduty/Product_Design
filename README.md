@@ -1,4 +1,4 @@
-![Retro Radio Typewriter](https://github.com/sourceduty/Product_Design/assets/123030236/70a32257-4aeb-4401-b5b1-af3aaf8fb864)
+![Spring Office Chair](https://github.com/sourceduty/Product_Design/assets/123030236/e00aa65e-bd6d-43bd-8016-3ad859e9db8e)
 
 > Consumer product design research and notes.
 
@@ -115,6 +115,10 @@ One of the most daunting challenges in product design is dealing with the uncert
 #
 
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
+
+#
+
+![Retro Radio Typewriter](https://github.com/sourceduty/Product_Design/assets/123030236/70a32257-4aeb-4401-b5b1-af3aaf8fb864)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
