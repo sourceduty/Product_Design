@@ -111,6 +111,8 @@ One of the most daunting challenges in product design is dealing with the uncert
 [Usagespan](https://github.com/sourceduty/Usagespan)
 <br>
 [Garbage](https://github.com/sourceduty/Garbage)
+<br>
+[Manufacturing Source](https://github.com/sourceduty/Manufacturing_Source)
 
 #
 
