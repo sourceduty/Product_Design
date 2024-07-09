@@ -1,4 +1,4 @@
-![Spring Office Chair](https://github.com/sourceduty/Product_Design/assets/123030236/e00aa65e-bd6d-43bd-8016-3ad859e9db8e)
+![Covered Rolex Wristwatch](https://github.com/sourceduty/Product_Design/assets/123030236/d11faf27-5135-4401-bcc8-9380ef48c079)
 
 > Consumer product design research and notes.
 
