@@ -113,6 +113,8 @@ One of the most daunting challenges in product design is dealing with the uncert
 [Garbage](https://github.com/sourceduty/Garbage)
 <br>
 [Manufacturing Source](https://github.com/sourceduty/Manufacturing_Source)
+<br>
+[Luxury Design](https://github.com/sourceduty/Luxury_Design)
 
 #
 
