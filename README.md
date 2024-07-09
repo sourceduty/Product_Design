@@ -1,4 +1,4 @@
-![Covered Rolex Wristwatch](https://github.com/sourceduty/Product_Design/assets/123030236/d11faf27-5135-4401-bcc8-9380ef48c079)
+![Electric Plastic Acoustic Guitar](https://github.com/sourceduty/Product_Design/assets/123030236/30f49091-f35e-4b0d-acc6-4bb062ab68ec)
 
 > Consumer product design research and notes.
 
