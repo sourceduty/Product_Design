@@ -128,6 +128,8 @@ One of the most daunting challenges in product design is dealing with the uncert
 [Luxury Design](https://github.com/sourceduty/Luxury_Design)
 <br>
 [AI Design Contests](https://github.com/sourceduty/AI_Design_Contests)
+<br>
+[Creative Competitor](https://chat.openai.com/g/g-QrvZzVunC-creative-competitor)
 
 #
 
