@@ -126,6 +126,8 @@ One of the most daunting challenges in product design is dealing with the uncert
 [Manufacturing Source](https://github.com/sourceduty/Manufacturing_Source)
 <br>
 [Luxury Design](https://github.com/sourceduty/Luxury_Design)
+<br>
+[AI Design Contests](https://github.com/sourceduty/AI_Design_Contests)
 
 #
 
