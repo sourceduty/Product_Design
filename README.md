@@ -174,6 +174,8 @@ Overall, the Volcano Blender concept is a brilliant example of how everyday appl
 [Creative Competitor](https://chat.openai.com/g/g-QrvZzVunC-creative-competitor)
 <br>
 [Upcycle Design](https://github.com/sourceduty/Upcycle_Design)
+<br>
+[Tesla Design](https://github.com/sourceduty/Tesla_Design)
 
 #
 
