@@ -34,6 +34,8 @@ It's not impossible to minimalize every product and obey laws that force them to
 
 > "*✋ This section wasn't written or edited by AI.*"
 
+> "*A business, not an industry, could potentially utilize a standardized pallet of materials for easy product disassembly, upcycling and recycling.*"
+
 #
 ### Notes
 
