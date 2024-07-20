@@ -30,7 +30,7 @@ Without being minimalist, because people enjoy variations, products could be for
 
 Redwood Materials was founded by a former Tesla executive and focuses on recycling EV lithium-ion batteries. Tesla has a comprehensive battery recycling program aimed at recovering valuable materials like lithium, cobalt, nickel, and aluminum from used batteries. Tesla collaborates with Redwood Materials to enhance its recycling capabilities. Many leading car manufacturers have established programs to recycle their own returned scrap vehicles, with a significant focus on the recycling of EV batteries. These efforts are part of a larger commitment to sustainability and the circular economy.
 
-It's not impossible to minimalize every product and obey laws that force them to be easily dissassembled when defective, broken or worn out. The industries that manage these products could adapt for minimalism, but the businesses and consumers wouldn't want to buy the minimalist products.
+It's not impossible to minimalize every product and obey laws that force them to be easily dissassembled when defective, broken or worn out. The industries that manage these products could adapt for minimalism, but the businesses and consumers wouldn't want to buy or sell the minimalist products.
 
 > Alex: "*✋ This section wasn't written or edited by AI.*"
 
