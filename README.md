@@ -20,6 +20,21 @@ In the realm of sci-fi product design, the focus is often on creating items that
 Moreover, sci-fi product design frequently addresses broader societal themes and challenges, such as sustainability, ethical use of technology, and the human-machine interface. By projecting these issues into the future, designers can explore potential solutions and consequences in a speculative context. This not only adds depth to the sci-fi narratives but also prompts real-world reflection and innovation. For example, the eco-friendly technologies showcased in films like "Blade Runner 2049" or "The Expanse" highlight the potential for sustainable living in advanced societies, influencing contemporary design philosophies and encouraging a more thoughtful approach to product development.
 
 #
+### Minimalist Design
+
+![Products](https://github.com/user-attachments/assets/0cdceae3-5f48-4958-8fc0-9d10d470a22a)
+
+Consumers and businesses need products that utilize temporary assembly, modularization and minimalism. Traditional products have been and continue to be permanently assembled which makes them unrepairable and hard to upcycle or recycle. These products don't use a standardized pallet of materials when they are made which increases the difficulty of disassembly, upcycling and recycling. Businesses and consumers wouldn't want to use a standardized pallet of materials for their products. Although these products would be designed for easy disassembly, they would be restricted from using variations which make them original.
+
+Without being minimalist, because people enjoy variations, products could be forced to obey laws that force them to be easily dissassembled when defective, broken or worn out. Products like cars could be returned to their originating factories and then dissasembled. Electric vehicles have a high scrap value compared to gasoline vehicles because of their batteries.
+
+Redwood Materials was founded by a former Tesla executive and focuses on recycling EV lithium-ion batteries. Tesla has a comprehensive battery recycling program aimed at recovering valuable materials like lithium, cobalt, nickel, and aluminum from used batteries. Tesla collaborates with Redwood Materials to enhance its recycling capabilities. Many leading car manufacturers have established programs to recycle their own returned scrap vehicles, with a significant focus on the recycling of EV batteries. These efforts are part of a larger commitment to sustainability and the circular economy.
+
+It's not impossible to minimalize every product and obey laws that force them to be easily dissassembled when defective, broken or worn out. The industries that manage these products could adapt for minimalism, but the businesses and consumers wouldn't want to buy the minimalist products.
+
+> Alex: "*✋ This section wasn't written or edited by AI.*"
+
+#
 ### Notes
 
 <details><summary>Product Design Analysis</summary>
@@ -115,22 +130,6 @@ Functionally, the blender maintains the high standards expected from modern kitc
 One of the most innovative aspects of this design is its illumination feature. The glowing base is not only an aesthetic choice but also serves a functional purpose. The lights can indicate the blender's status, such as being in operation, on standby, or signaling an error. This integration of form and function showcases how modern appliances can transcend their utilitarian roles to become interactive and informative tools in the kitchen. Moreover, the light feature can add a sense of ambiance and can be a talking point in gatherings, turning a common kitchen appliance into a centerpiece.
 
 Overall, the Volcano Blender concept is a brilliant example of how everyday appliances can be transformed through creative design. It merges the natural, rugged beauty of volcanic formations with the sleek functionality of contemporary kitchen devices. This design not only elevates the aesthetic appeal of a kitchen but also enhances the user's experience through thoughtful ergonomic and functional features. It represents a new wave of appliance design where form, function, and aesthetic are seamlessly integrated to create products that are both beautiful and highly functional.
-
-
-#
-### Minimalist Design
-
-![Products](https://github.com/user-attachments/assets/0cdceae3-5f48-4958-8fc0-9d10d470a22a)
-
-Consumers and businesses need products that utilize temporary assembly, modularization and minimalism. Traditional products have been and continue to be permanently assembled which makes them unrepairable and hard to upcycle or recycle. These products don't use a standardized pallet of materials when they are made which increases the difficulty of disassembly, upcycling and recycling. Businesses and consumers wouldn't want to use a standardized pallet of materials for their products. Although these products would be designed for easy disassembly, they would be restricted from using variations which make them original.
-
-Without being minimalist, because people enjoy variations, products could be forced to obey laws that force them to be easily dissassembled when defective, broken or worn out. Products like cars could be returned to their originating factories and then dissasembled. Electric vehicles have a high scrap value compared to gasoline vehicles because of their batteries.
-
-Redwood Materials was founded by a former Tesla executive and focuses on recycling EV lithium-ion batteries. Tesla has a comprehensive battery recycling program aimed at recovering valuable materials like lithium, cobalt, nickel, and aluminum from used batteries. Tesla collaborates with Redwood Materials to enhance its recycling capabilities. Many leading car manufacturers have established programs to recycle their own returned scrap vehicles, with a significant focus on the recycling of EV batteries. These efforts are part of a larger commitment to sustainability and the circular economy.
-
-It's not impossible to minimalize every product and obey laws that force them to be easily dissassembled when defective, broken or worn out. The industries that manage these products could adapt for minimalism, but the businesses and consumers wouldn't want to buy the minimalist products.
-
-> Alex: "*✋ This section wasn't written or edited by AI.*"
 
 <br>
 </details>
