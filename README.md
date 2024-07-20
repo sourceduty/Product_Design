@@ -32,6 +32,8 @@ Redwood Materials was founded by a former Tesla executive and focuses on recycli
 
 It's not impossible to minimalize every product and obey laws that force them to be easily dissassembled when defective, broken or worn out. The industries that manage these products could adapt for minimalism, but the businesses and consumers wouldn't want to buy or sell the minimalist products.
 
+<br><br>
+
 > "*✋ This section wasn't written or edited by AI.*"
 
 > "*A business, not an industry, could potentially utilize a standardized pallet of materials for easy product disassembly, upcycling and recycling.*"
