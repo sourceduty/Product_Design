@@ -2,6 +2,8 @@
 
 > Consumer product design research and notes.
 
+#
+
 Product design encompasses the process of imagining, creating, and iterating products that address users' needs or problems within a specific market. Success in product design requires a deep understanding of end-users, development of user-friendly and efficient solutions, and ensuring market viability through a combination of aesthetics, functionality, and usability engineering.
 
 The demand for consumer products varies based on factors like market trends, economic conditions, cultural influences, and individual needs. Presently, consumers are drawn to products offering convenience, sustainability, health and wellness, and personalization. Staple products are those that consumers consistently require, including food, beverages, household items, personal hygiene products, and basic clothing. Their demand remains stable, forming the foundation of daily living.
