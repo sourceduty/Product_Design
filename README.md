@@ -176,6 +176,8 @@ Overall, the Volcano Blender concept is a brilliant example of how everyday appl
 [Upcycle Design](https://github.com/sourceduty/Upcycle_Design)
 <br>
 [Tesla Design](https://github.com/sourceduty/Tesla_Design)
+<br>
+[Character Product](https://github.com/sourceduty/Character_Product)
 
 #
 
