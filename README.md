@@ -46,7 +46,7 @@ It's not impossible to minimalize every product and obey laws that force them to
 <details><summary>Basic Color Sensory Experience Words</summary>
 <br>
 
-![Fort Knox Gold](https://github.com/user-attachments/assets/053f3886-c874-4144-a388-5941a1e6f159)
+![Glossy Blonde Gold](https://github.com/user-attachments/assets/0ddb07ce-4af6-44a9-9174-264fe8a571ba)
 
 This table categorizes sensory experience words associated with various colors, showing how different shades evoke specific feelings or associations. For example, black is linked to terms like "dark" and "velvet," emphasizing its depth and richness, while white evokes "clean" and "snowy," highlighting its purity and brightness. Red is associated with warmth and intensity through words like "fiery" and "scarlet," and green conveys a natural, fresh feel with terms like "leafy" and "earthy." Each color is paired with words that reflect its typical emotional or physical sensations, such as yellow being "sunny" and "zesty" or blue conveying "calm" and "oceanic." These sensory words not only describe the colors visually but also tap into deeper sensory and emotional experiences, making them more vivid and memorable.
 
