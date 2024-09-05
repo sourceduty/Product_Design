@@ -140,6 +140,32 @@ Overall, the Volcano Blender concept is a brilliant example of how everyday appl
 <br>
 </details>
 
+<details><summary>Basic Color Sensory Experience Words</summary>
+<br>
+
+![Fort Knox Gold](https://github.com/user-attachments/assets/053f3886-c874-4144-a388-5941a1e6f159)
+
+This table categorizes sensory experience words associated with various colors, showing how different shades evoke specific feelings or associations. For example, black is linked to terms like "dark" and "velvet," emphasizing its depth and richness, while white evokes "clean" and "snowy," highlighting its purity and brightness. Red is associated with warmth and intensity through words like "fiery" and "scarlet," and green conveys a natural, fresh feel with terms like "leafy" and "earthy." Each color is paired with words that reflect its typical emotional or physical sensations, such as yellow being "sunny" and "zesty" or blue conveying "calm" and "oceanic." These sensory words not only describe the colors visually but also tap into deeper sensory and emotional experiences, making them more vivid and memorable.
+
+.............................................................................................
+
+| Color   | Sensory Experience Words                               |
+|---------|--------------------------------------------------------|
+| Black   | Dark, Smoky, Charcoal, Inky, Midnight, Velvet           |
+| White   | Bright, Clean, Snowy, Milky, Ivory, Frosty             |
+| Red     | Warm, Fiery, Cherry, Scarlet, Crimson, Spicy           |
+| Green   | Fresh, Earthy, Minty, Lush, Leafy, Mossy               |
+| Yellow  | Bright, Sunny, Lemon, Golden, Zesty, Warm              |
+| Blue    | Cool, Oceanic, Sky, Icy, Deep, Calm                    |
+| Brown   | Earthy, Chocolate, Rich, Woody, Warm, Coffee           |
+| Orange  | Citrus, Zesty, Tangy, Pumpkin, Warm, Spicy             |
+| Pink    | Soft, Sweet, Cotton candy, Rose, Blush, Bubblegum      |
+| Purple  | Rich, Grape, Regal, Plum, Velvety, Deep                |
+| Gray    | Cool, Smoky, Ash, Cloudy, Steel, Soft                  |
+
+<br>
+</details>
+
 #
 
 > Alex: *"I'm really good at product design, and I really like designing new products, but the uncertain sales of new products are almost impossible to work with."*
