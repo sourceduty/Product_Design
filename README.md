@@ -175,6 +175,10 @@ Overall, the Volcano Blender concept is a brilliant example of how everyday appl
 ![Product Designer](https://github.com/sourceduty/Product_Design/assets/123030236/cc1b43ff-19c9-4433-adad-93d401f7a671)
 
 #
+
+![Burned Hair](https://github.com/user-attachments/assets/dc6c48bd-b6b3-4d47-93e8-29d9bb019f96)
+
+#
 ### Related Links
 
 [Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
