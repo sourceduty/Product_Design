@@ -1,4 +1,4 @@
-![Electric Plastic Acoustic Guitar](https://github.com/sourceduty/Product_Design/assets/123030236/30f49091-f35e-4b0d-acc6-4bb062ab68ec)
+![3D](https://github.com/user-attachments/assets/c5360659-6ebf-4442-8ae7-e305fa1e518e)
 
 > Consumer product design research and notes.
 
@@ -216,6 +216,10 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 #
 
 ![Retro Radio Typewriter](https://github.com/sourceduty/Product_Design/assets/123030236/70a32257-4aeb-4401-b5b1-af3aaf8fb864)
+
+#
+
+![Electric Plastic Acoustic Guitar](https://github.com/sourceduty/Product_Design/assets/123030236/30f49091-f35e-4b0d-acc6-4bb062ab68ec)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
