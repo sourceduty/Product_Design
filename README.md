@@ -146,6 +146,19 @@ One of the most daunting challenges in product design is dealing with the uncert
 
 <br>
 </details>
+<details><summary>Computer Mouse Batteries</summary>
+<br>
+
+![Computer Mouse Battery](https://github.com/user-attachments/assets/de118573-27bb-4fcc-952a-941815436f52)
+
+Wireless computer mice typically fall into two categories when it comes to power sources: those that use internal rechargeable batteries and those that rely on external, replaceable batteries such as AA or AAA. Mice with internal batteries feature a built-in, non-removable battery that users can recharge via USB or through a wireless charging dock. Examples of these models include the Apple Magic Mouse 2, Logitech MX Master series, Razer Basilisk Ultimate, and the Microsoft Surface Precision Mouse. These mice are often part of premium product lines designed for professionals, gamers, or users seeking advanced features and ergonomics. Internal battery-powered mice are highly convenient, as they eliminate the need to replace batteries and often support fast charging through modern ports like USB-C. Additionally, they tend to be more environmentally friendly by reducing battery waste.
+
+On the other hand, many mice still use external batteries, requiring users to replace AA or AAA batteries when they deplete. Some common models that use external batteries include the Logitech M705 Marathon Mouse, Microsoft Wireless Mobile Mouse 3500, and the Razer Atheris. These mice often appeal to consumers seeking a budget-friendly, simple solution without the need for frequent charging. External battery-powered mice are also preferred by users who appreciate long battery life, as some models can last for months on a single set of batteries. Moreover, the ability to easily swap out batteries means no downtime while waiting for the mouse to recharge, which adds to their appeal for certain users.
+
+When comparing internal and external battery-powered mice, it’s clear that internal rechargeable batteries are becoming more common in premium and feature-rich devices, while external batteries remain prevalent in budget models. The rise of high-end gaming and productivity mice with rechargeable batteries reflects the trend toward convenience, environmentally friendly design, and advanced features. However, lower-cost mice, which make up a significant portion of the market, still often rely on external batteries. Given the widespread popularity of budget-friendly mice, models with replaceable AA/AAA batteries likely continue to outnumber their internal rechargeable counterparts, though the latter are gaining ground as users seek more convenient and sustainable options.
+
+<br>
+</details>
 
 #
 ### Product Design Concepts
