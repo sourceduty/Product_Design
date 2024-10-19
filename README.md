@@ -1,4 +1,4 @@
-![3D](https://github.com/user-attachments/assets/c5360659-6ebf-4442-8ae7-e305fa1e518e)
+![Products](https://github.com/user-attachments/assets/37299a65-2cc6-47c5-977c-974a1d1a0aa3)
 
 > Consumer product design research and notes.
 
