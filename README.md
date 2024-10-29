@@ -234,15 +234,11 @@ Overall, the Volcano Blender concept is a brilliant example of how everyday appl
 [Character Product](https://github.com/sourceduty/Character_Product)
 
 #
-
-Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
+➡️ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
 
 #
-
 ![Retro Radio Typewriter](https://github.com/sourceduty/Product_Design/assets/123030236/70a32257-4aeb-4401-b5b1-af3aaf8fb864)
-
 #
-
 ![Electric Plastic Acoustic Guitar](https://github.com/sourceduty/Product_Design/assets/123030236/30f49091-f35e-4b0d-acc6-4bb062ab68ec)
 
 ***
