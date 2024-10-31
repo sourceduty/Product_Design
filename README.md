@@ -1,4 +1,4 @@
-![Products](https://github.com/user-attachments/assets/37299a65-2cc6-47c5-977c-974a1d1a0aa3)
+![Lights](https://github.com/user-attachments/assets/297e3eee-aead-43e6-9003-8cc59c410a48)
 
 > Consumer product design research and notes.
 
@@ -195,11 +195,10 @@ Overall, the Volcano Blender concept is a brilliant example of how everyday appl
 > Alex: *"I'm really good at product design, and I really like designing new products, but the uncertain sales of new products are almost impossible to work with."*
 
 #
-
 ![Product Designer](https://github.com/sourceduty/Product_Design/assets/123030236/cc1b43ff-19c9-4433-adad-93d401f7a671)
-
 #
-
+![Products](https://github.com/user-attachments/assets/37299a65-2cc6-47c5-977c-974a1d1a0aa3)
+#
 ![Burned Hair](https://github.com/user-attachments/assets/dc6c48bd-b6b3-4d47-93e8-29d9bb019f96)
 
 #
