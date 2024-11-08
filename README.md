@@ -52,6 +52,22 @@ Physical products and services, on the other hand, are tangible items and in-per
 Both digital and physical products and services offer unique benefits and cater to different customer needs. Many companies have begun to integrate both aspects into their offerings. For example, Amazon provides a vast range of physical products through its online marketplace, while also offering digital products like e-books and cloud services. This hybrid approach allows businesses to reach a broader audience and meet various customer preferences. Whether it’s the convenience of digital goods or the tangible satisfaction of physical items, businesses can leverage both types to enhance customer experience and expand their market reach.
 
 #
+### Worn In/Out Products
+
+![Worn](https://github.com/user-attachments/assets/d857bde2-235b-4cca-b6c1-7faf19d537c9)
+
+Wearing new clothes often brings a sense of excitement and confidence. The crisp fabric and vibrant colors can elevate one’s mood and create a fresh impression. New garments fit snugly and showcase the latest trends, making the wearer feel stylish and put-together. However, this novelty can sometimes come with discomfort, as new items may not yet conform to the body’s shape. The process of breaking in these new clothes allows for a unique journey where initial stiffness transforms into a more personalized fit.
+
+On the other hand, worn-in clothing tells a different story. These pieces have been through numerous adventures, accumulating memories and character over time. They are typically softer and more comfortable, adapting perfectly to the wearer’s body. Worn-out clothing, however, indicates a different stage, often showing visible signs of wear such as frayed edges or fading colors. While some may see worn-out items as unappealing, others appreciate their history and the comfort they provide. The contrast between new, worn-in, and worn-out garments illustrates the evolution of clothing as it transitions from a fresh start to a cherished part of one’s wardrobe.
+
+#
+### Permanent State Products
+
+Proposing the use of materials that can transition into a near-permanent final state offers exciting possibilities for product design and sustainability. These materials, such as high-quality leathers, denims, and certain technical fabrics, are engineered to withstand the test of time while maintaining their aesthetic appeal. By selecting materials that not only endure wear but also improve with age, manufacturers can create products that develop a unique character and story, enhancing their value over time. For instance, items made from full-grain leather can develop a rich patina, reflecting the wearer's experiences while retaining durability and functionality. This approach promotes a shift away from fast fashion, encouraging consumers to invest in products that are designed for longevity rather than disposable trends.
+
+Moreover, utilizing materials that evolve into a near-permanent state supports environmental sustainability by reducing waste and the frequency of product replacement. By focusing on craftsmanship and quality, companies can foster a culture of appreciation for well-made goods, leading consumers to cherish their items rather than discard them after a short period. For example, products crafted from durable, sustainable materials like organic cotton or recycled polyester can endure years of use without losing their structural integrity. This not only enhances the product's lifecycle but also contributes to a more circular economy where resources are valued and reused. By investing in materials that transition into a lasting state, brands can appeal to conscious consumers who prioritize sustainability while enjoying the benefits of high-quality, timeless products.
+
+#
 ### Notes
 
 <details><summary>Basic Color Sensory Experience Words</summary>
