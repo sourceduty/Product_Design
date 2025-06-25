@@ -1,4 +1,4 @@
-![Blow Tool](https://github.com/user-attachments/assets/4a525f78-d097-4b37-b334-34ae3057bfe2)
+![Blow Tool](https://github.com/user-attachments/assets/5c08c11f-336d-4cde-af69-ddc054b68d2e)
 ![Hack](https://github.com/user-attachments/assets/8c75c311-ebdd-4b81-9fc7-dec586efaa1a)
 
 Alex, the lead designer at Sourceduty, brings a practical yet creative vision to life through a wide range of 3D model designs available on Cults3D. His work centers on functional, modular creations—such as triangle storage boxes, urban-themed trays, and novelty containers—that blend everyday utility with playful or thematic aesthetics. Each piece, from dovetail-locking organizers to duck-shaped storage boxes, reflects Alex’s focus on accessible printing and smart assembly, often requiring no supports and fitting standard FDM printers. These designs not only enhance desktop organization and home decor but also showcase Sourceduty’s commitment to clean, purpose-driven design that resonates with hobbyists and makers alike.
