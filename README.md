@@ -1,4 +1,4 @@
-![3D Weed Scanner](https://github.com/user-attachments/assets/bc69b47a-d60c-4bfa-885f-fe69ad9264d7)
+![Blow Tool](https://github.com/user-attachments/assets/4a525f78-d097-4b37-b334-34ae3057bfe2)
 ![Hack](https://github.com/user-attachments/assets/8c75c311-ebdd-4b81-9fc7-dec586efaa1a)
 
 Alex, the lead designer at Sourceduty, brings a practical yet creative vision to life through a wide range of 3D model designs available on Cults3D. His work centers on functional, modular creations—such as triangle storage boxes, urban-themed trays, and novelty containers—that blend everyday utility with playful or thematic aesthetics. Each piece, from dovetail-locking organizers to duck-shaped storage boxes, reflects Alex’s focus on accessible printing and smart assembly, often requiring no supports and fitting standard FDM printers. These designs not only enhance desktop organization and home decor but also showcase Sourceduty’s commitment to clean, purpose-driven design that resonates with hobbyists and makers alike.
@@ -31,6 +31,8 @@ Sourceduty works on the development and distribution of high-quality [3D models]
 
 [Sourceduty's Spreadshop](https://sourceduty.com/spreadshirt) offers a diverse range of customizable merchandise, including clothing and accessories, featuring unique designs that reflect the company's creative vision. By partnering with Spreadshirt, Sourceduty provides high-quality, print-on-demand products, allowing customers to select from various apparel options such as t-shirts, hoodies, and hats, as well as accessories like bags and mugs. Each item can be personalized with exclusive Sourceduty artwork, ensuring a distinctive addition to any wardrobe or collection. This collaboration enables Sourceduty to focus on delivering innovative designs while leveraging Spreadshirt's expertise in production and fulfillment, resulting in a seamless shopping experience for customers seeking original and customizable products.
 
+#
+![3D Weed Scanner](https://github.com/user-attachments/assets/bc69b47a-d60c-4bfa-885f-fe69ad9264d7)
 #
 
 [Art Design](https://github.com/sourceduty/Art_Design)
