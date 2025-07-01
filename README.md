@@ -1,5 +1,5 @@
+![Prison Tech](https://github.com/user-attachments/assets/0a37f220-fbfd-4354-833b-20685cdbd963)
 ![Blow Tool](https://github.com/user-attachments/assets/5c08c11f-336d-4cde-af69-ddc054b68d2e)
-![Hack](https://github.com/user-attachments/assets/8c75c311-ebdd-4b81-9fc7-dec586efaa1a)
 
 Alex, the lead designer at Sourceduty, brings a practical yet creative vision to life through a wide range of 3D model designs available on Cults3D. His work centers on functional, modular creations—such as triangle storage boxes, urban-themed trays, and novelty containers—that blend everyday utility with playful or thematic aesthetics. Each piece, from dovetail-locking organizers to duck-shaped storage boxes, reflects Alex’s focus on accessible printing and smart assembly, often requiring no supports and fitting standard FDM printers. These designs not only enhance desktop organization and home decor but also showcase Sourceduty’s commitment to clean, purpose-driven design that resonates with hobbyists and makers alike.
 
@@ -25,6 +25,14 @@ Sourceduty works on the development and distribution of high-quality [3D models]
 
 #
 
+![Prison Electronics](https://github.com/user-attachments/assets/598b0b34-34fd-40f7-9204-ed82ec4d08e1)
+
+The use of clear plastic enclosures and housings in prison technology has sparked a wave of speculative discussion, though much of it is unfounded. Rumors suggest that prisons are implementing transparent devices for security reasons, enabling guards and staff to easily monitor inmates' interactions with technology. Allegedly, this approach involves enclosing devices such as tablets, kiosks, and communication hubs in clear, tamper-resistant casings, which would prevent the concealment of contraband or unauthorized alterations. Proponents of this idea argue that it could enhance transparency and accountability, aligning with efforts to modernize correctional facilities while maintaining a high standard of safety.
+
+Despite the intrigue, there is no verified evidence that such practices are being widely adopted or even considered as standard in correctional systems. The rumor seems to have originated from speculative discussions about the future of prison technology and its integration with evolving security measures. While the concept of transparent enclosures could have some theoretical benefits, experts have highlighted practical challenges, such as the cost of custom manufacturing and potential durability issues. For now, it remains an imaginative notion rather than a real-world innovation.
+
+#
+
 ![Modular](https://github.com/user-attachments/assets/39995664-9ad9-4996-9142-fe0cac2a6282)
 
 [3D Modular](https://chatgpt.com/g/g-6786e16f69fc81918d023aa54b52766f-3d-modular) specializes in designing modular 3D models optimized for 3D printing. Its primary function is to create individual components that can interconnect seamlessly, adhering to standardized dimensions, connectors, and alignments for maximum compatibility. It guides users through a structured, step-by-step process to gather detailed requirements—such as intended purpose, scale, and aesthetics—before generating practical and visually clear modular designs. These designs emphasize simplicity, structural integrity, and printability, incorporating features like snap-fit, screw-fit, or magnetic attachments based on user preference. The GPT also supports customization through parametric design, provides thorough documentation including STL files and assembly instructions, and encourages user feedback for iterative improvements.
@@ -37,6 +45,7 @@ Sourceduty works on the development and distribution of high-quality [3D models]
 
 #
 ![3D Weed Scanner](https://github.com/user-attachments/assets/bc69b47a-d60c-4bfa-885f-fe69ad9264d7)
+![Hack](https://github.com/user-attachments/assets/8c75c311-ebdd-4b81-9fc7-dec586efaa1a)
 #
 
 [Art Design](https://github.com/sourceduty/Art_Design)
